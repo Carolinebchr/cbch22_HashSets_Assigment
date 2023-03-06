@@ -1,0 +1,15 @@
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\bin\Debug\net6.0\cbch22_HashSets_Assigment.exe
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\bin\Debug\net6.0\cbch22_HashSets_Assigment.deps.json
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\bin\Debug\net6.0\cbch22_HashSets_Assigment.runtimeconfig.json
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\bin\Debug\net6.0\cbch22_HashSets_Assigment.dll
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\bin\Debug\net6.0\cbch22_HashSets_Assigment.pdb
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.csproj.AssemblyReference.cache
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.AssemblyInfoInputs.cache
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.AssemblyInfo.cs
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.dll
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\refint\cbch22_HashSets_Assigment.dll
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.pdb
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\cbch22_HashSets_Assigment.genruntimeconfig.cache
+C:\Users\dkcbc\OneDrive\Documents\AAU\P2\Programming\cbch22_HashSets_Assigment\obj\Debug\net6.0\ref\cbch22_HashSets_Assigment.dll
